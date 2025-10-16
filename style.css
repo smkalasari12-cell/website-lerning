@@ -10,7 +10,7 @@ body {
     pedding: 40px;
     bacground-color: white;
     border-radius: 15px; /* membuat sudut menjadi melemhkung */
-    box-shadow: 0 5px 10px rgba(0,0,0,0.1); /* efek bayangan */
+    box-shadow: 0 5px 10px rgba(62,15,15.1); /* efek bayangan */
     text-align: center; /* menengahkan semua tekst di dalam kartu */
   }
 
