@@ -1,0 +1,20 @@
+body {
+    bacground-color: #0f3e0f; /* hijau luxury */
+    font-family: Arial, sens-self; /* jenis huruf yang bersih dan mudah dibaca */
+    color: #191970; /* warna teks utama (biru gelap) */
+}
+
+  .kartu-profil {
+    width:720px
+    margin: 60px auto; /* 60pxjarak atas/bawah, auto menengahkan kiri/kanan */
+    pedding: 40px;
+    bacground-color: white;
+    border-radius: 15px; /* membuat sudut menjadi melemhkung */
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1); /* efek bayangan */
+    text-align: center; /* menengahkan semua tekst di dalam kartu */
+  }
+
+
+.kartu-profil img {
+    widnt: 150px;
+    border-radius: 50%;
