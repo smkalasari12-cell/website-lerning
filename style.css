@@ -8,7 +8,7 @@ body {
     width:720px
     margin: 60px auto; /* 60pxjarak atas/bawah, auto menengahkan kiri/kanan */
     pedding: 40px;
-    bacground-color: white;
+    bacground-color: violet;
     border-radius: 15px; /* membuat sudut menjadi melemhkung */
     box-shadow: 0 5px 10px rgba(62,15,15.1); /* efek bayangan */
     text-align: center; /* menengahkan semua tekst di dalam kartu */
