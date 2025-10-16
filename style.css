@@ -1,11 +1,11 @@
 body {
-    bacground-color: #ff0000; 
+    background-color: #ff0000; 
     font-family: Arial, sens-self; /* jenis huruf yang bersih dan mudah dibaca */
     color: #990000; /* warna teks utama (biru gelap) */
 }
 
   .kartu-profil {
-    width:720px
+    width:720px;
     margin: 60px auto; /* 60pxjarak atas/bawah, auto menengahkan kiri/kanan */
     pedding: 40px;
     bacground-color: red;
@@ -16,5 +16,5 @@ body {
 
 
 .kartu-profil img {
-    widnt: 150px;
+    width: 150px;
     border-radius: 50%;
